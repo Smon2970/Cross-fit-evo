@@ -1,0 +1,494 @@
+
+.mobile{
+    display: none;
+}
+
+.display-4{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    color: white;
+    text-shadow: 5px 5px gray;
+}
+
+
+.info{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    margin-left: 3rem;
+    background-color: #222;
+   
+}
+
+.price {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 7px rgba(0,0,0,.6);
+    
+}
+
+h5{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    color: white;
+   
+}
+
+span{
+    color: black;
+
+}
+
+.features {
+    padding: 20px;
+    
+    background: rgb(185, 173, 173);
+    text-align: center;
+}
+
+.container-3{
+    margin-right: 5rem;
+    margin-top: 5rem;
+}
+
+.coaches{
+    
+    margin-top: 3rem;
+    
+     height: 15rem;
+} 
+
+ 
+
+h1{
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+}
+
+.title{
+    font-size: 105px; font-family: 'Anton', sans-serif; color: black; text-shadow: 5px 5px  rgb(2, 7, 78), 10px 10px gray;
+}
+
+.text{
+    color: black;
+    text-align: left;
+    padding-top: 1rem;
+    padding-left: 5rem;
+    text-shadow: 1px 1px rgb(2, 7, 78);
+    
+   
+}
+
+.logo{
+    
+    height: 5.55rem;
+    width: 9.5rem;
+    padding-left: 85px;
+    
+    
+}
+
+
+.details{
+    padding-top: 8px;
+    padding-left: 100px;
+    
+}
+
+.lead{
+    color: black;
+    text-align: center;
+    font-size: 60rem;
+    
+}
+
+hr{
+    text-align: center;
+    width: 50%;
+    color: blue;
+}
+
+
+.container{
+   
+  
+}
+
+
+
+.cover{
+    background-image: url("./Photos/cover2.jpg");
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+body,html{
+    height: 100%;
+}
+
+.container3{
+   background-color: white;
+   margin: 5%;
+   height: 900px;
+}
+
+
+.coaches:hover{
+    opacity: 0.3;
+   
+}
+
+.coache:hover{
+    opacity: 0.3;
+   
+}
+
+
+.heading{
+    text-align: center;
+    color: black; 
+    text-shadow: 3px 3px  rgb(2, 7, 78), 10px 10px gray;
+    font-family: 'Anton', sans-serif;
+    font-size: 6rem;
+    padding-top: .5px;
+    padding-bottom: 55px;
+}
+
+
+.trainers-name{
+    width: 100%;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-family: 'Anton', sans-serif;
+   
+}
+
+
+a{
+    text-align: center;
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.7rem;
+    
+}
+
+.display-2{
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 1rem;
+    padding-top: 3rem;
+    padding-left: 2.5rem;
+}
+.contacts{
+    width: 60%;
+    height: 80%;
+    margin-left: 13rem;
+    padding-top: 1rem;
+  
+}
+
+
+
+.phone{
+    padding-left: 31rem;
+   color: white;
+   font-size: 1.5rem;
+    
+}
+
+.email{
+    padding-left: 28rem;
+    color: white;
+    font-size: 1.5rem;
+   padding-top: 0.5rem;
+    
+}
+
+.container4{
+    background-color:  -webkit-linear-gradient(rgb(58, 67, 185), rgb(23, 6, 122), rgb(5, 2, 48));
+}
+
+.card-body{
+   height: 10rem;
+
+}
+
+.text-div{
+    padding-right: 4rem;
+    color: black;
+    text-align: center;
+}
+
+.card-text{
+    font-size: 1.1rem;
+    text-align: center;
+    
+}
+
+.footer{
+    padding-left: 4.5rem;
+    color: grey;
+    font-family: 'Anton', sans-serif;
+  
+}
+
+.card-title{
+    text-align: center;
+    color: black;
+    font-family: 'Anton', sans-serif;
+   
+    font-size: 3rem;
+}
+
+.pin{
+    padding-left: 5.4rem;
+    height: 3rem;
+   
+}
+
+
+.header-1{
+background:  rgb(5, 2, 48);
+border-bottom: 2px solid #FFF;
+font-size: 26px;
+padding: 12px 18px;
+margin-left: 3rem;
+box-sizing: border-box;
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+}
+
+iframe{
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    height: 13rem;
+    width: 20rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+
+.elfsight-app-80dd50a6-37cb-4bcd-9a8f-beefa6b45077{
+    padding-left: 4.5rem;
+    padding-top: 1rem;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+.location{
+   font-size: 1.3rem;
+    color: white;
+    padding-left: 1.5rem;
+}
+
+.fb-page{
+    
+    padding-bottom: 1rem;
+    height: 13rem;
+    width: 20rem;
+    
+}
+
+.calendar{
+    margin-top: 2rem;
+    margin-left: 13rem;
+    background-color: black;
+    width: 70%;
+}
+
+.schedule{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    color: white;
+}
+
+.rpt_title{background: #0099a7;
+    border-bottom: 2px solid #FFF;
+    font-size: 26px;
+    /* padding: 12px 18px; */
+}
+
+.second{
+    margin-left: 5rem;
+}
+
+.bio{
+    padding-right: 145px;
+    color: black;
+    font-family: 'Anton', sans-serif;
+    text-decoration-line: underline;
+}
+
+.trainers{
+    text-align: center;
+}
+
+
+
+footer{
+    background-color: black;
+    width: 100%;
+    height: 10rem;
+    margin-top: 5rem;
+    position: absolute;
+
+}
+
+.journal{
+    padding-top: 0.5rem;
+    padding-left: 5rem;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+
+@media only screen and (max-width : 600px) {
+   
+
+    .logo{
+    
+        height: 4.5rem;
+        width: 4rem;
+        padding-left: 6.5px;
+        
+        
+    }
+
+
+    .text{
+        color: black;
+        padding-left: 0.5rem;
+        text-shadow: 1px 1px rgb(2, 7, 78);
+        
+       
+    }
+
+    a{
+        text-align: center;
+        color: black;
+        font-family: 'Anton', sans-serif;
+        font-size: 1rem;
+        
+    }
+
+    
+
+      .title{
+        font-size: 3rem; 
+        padding-right: 2rem;
+        font-family: 'Anton', sans-serif; 
+        color: black;
+        text-shadow:  10px 10px gray;
+        padding-top: inherit;
+    }
+
+    
+
+    .container1 {
+        background: -webkit-linear-gradient(rgb(80, 83, 83), rgb(19, 25, 114), rgb(8, 8, 8));
+        height: 200;
+        width: 350px;
+        padding-top: 2.5rem;
+    }
+
+    .lead{
+       font-size: 12px;
+        text-align: center;
+    }
+    
+    .display-4{
+        text-align: center;
+        font-size: 2rem;
+        font-family: 'Anton', sans-serif;
+        padding-top: 1.5rem;
+        color: white;
+        text-shadow: 5px 5px rgb(2, 7, 78);
+    }
+
+    .container{
+        background-color: white;
+        margin: 1%;
+        height: 447px;
+         
+       }
+
+       .coaches{
+    
+        margin-top: 3rem;
+        
+         height: 15rem;
+    } 
+
+    .laptop{
+        display: none;
+    }
+
+    .journal{
+        display: none;
+    }
+    .footer{
+        display: none;
+    }
+    .mobile{
+        display: initial;
+        bottom: 0;
+        position: fixed; 
+    }
+
+    .display-3{
+        display: none;
+    }
+    
+    .location{
+        display: none;
+    }
+
+    footer{
+       display: none;
+    }
+
+    .elfsight-app-80dd50a6-37cb-4bcd-9a8f-beefa6b45077{
+        display: none;
+    }
+
+    .fas{
+        font-size: 2rem;
+    }
+
+    .icon-text{
+        font-size: 1.5rem;
+    }
+    .icons{
+       padding: 1rem;
+        text-align: center;
+    }
+
+    .trainers{
+        display: none;
+    }
+
+    .parallex{
+        display: none;
+    }
+
+    .container{
+        display: none;
+    }
+
+
+    
+}
