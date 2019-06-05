@@ -1,4 +1,8 @@
-
+/* body{
+    padding-left: .25rem;
+    padding-right: .25rem;
+    padding-top: .25rem;
+} */
 .mobile{
     display: none;
 }
@@ -9,7 +13,7 @@
     
     padding-top: 1.5rem;
     padding-bottom: 2rem;
-    color: white;
+    color: black;
     text-shadow: 5px 5px gray;
 }
 
@@ -54,8 +58,14 @@ span{
 }
 
 .container-3{
-    margin-right: 5rem;
-    margin-top: 5rem;
+   padding-left: 7rem;
+   padding-right: 7rem;
+   padding-top: 4rem;
+}
+
+table{
+    padding-left: 20rem;
+    padding-right: 20rem;
 }
 
 .coaches{
@@ -71,6 +81,13 @@ h1{
     text-align: center;
     padding-top: 180px;
     color: white;
+}
+
+.header{
+    font-family: 'Anton', sans-serif;
+   
+    color: black;
+    text-shadow: 2px 2px rgb(2, 7, 78);
 }
 
 .title{
@@ -108,18 +125,6 @@ h1{
     text-align: center;
     font-size: 60rem;
     
-}
-
-hr{
-    text-align: center;
-    width: 50%;
-    color: blue;
-}
-
-
-.container{
-   
-  
 }
 
 
@@ -313,30 +318,23 @@ iframe{
     text-align: center;
     font-family: 'Merriweather', serif;
     font-size: 1rem;
-    color: white;
+    color: black;
 }
 
 .rpt_title{background: #0099a7;
     border-bottom: 2px solid #FFF;
     font-size: 26px;
-    /* padding: 12px 18px; */
+   
 }
 
 .second{
     margin-left: 5rem;
 }
 
-.bio{
-    padding-right: 145px;
-    color: black;
-    font-family: 'Anton', sans-serif;
-    text-decoration-line: underline;
-}
 
 .trainers{
     text-align: center;
 }
-
 
 
 footer{
@@ -406,24 +404,23 @@ footer{
     }
 
     .lead{
-       font-size: 12px;
+       font-size: 1rem;
         text-align: center;
     }
     
-    .display-4{
+    .header{
         text-align: center;
         font-size: 2rem;
         font-family: 'Anton', sans-serif;
         padding-top: 1.5rem;
-        color: white;
-        text-shadow: 5px 5px rgb(2, 7, 78);
+        color: black;
+        text-shadow: 2px 2px rgb(2, 7, 78);
     }
 
     .container{
         background-color: white;
-        margin: 1%;
-        height: 447px;
-         
+        margin-left: 5rem;
+        margin-right: 5rem;
        }
 
        .coaches{
@@ -433,6 +430,16 @@ footer{
          height: 15rem;
     } 
 
+    .container-3{
+        padding-left: 0.1rem;
+        padding-right: 7rem;
+        padding-top: 4rem;
+    }
+
+    .header-1{
+       display:none;
+        }
+
     .laptop{
         display: none;
     }
@@ -440,13 +447,12 @@ footer{
     .journal{
         display: none;
     }
-    .footer{
-        display: none;
-    }
+    
     .mobile{
         display: initial;
         bottom: 0;
         position: fixed; 
+        border-top: 1px solid lightgrey;
     }
 
     .display-3{
@@ -458,7 +464,7 @@ footer{
     }
 
     footer{
-       display: none;
+        display: none;
     }
 
     .elfsight-app-80dd50a6-37cb-4bcd-9a8f-beefa6b45077{
@@ -466,14 +472,21 @@ footer{
     }
 
     .fas{
-        font-size: 2rem;
+        font-size: 1.5rem;
+        padding: 0.25rem 0.25rem 0rem 0.25rem;
     }
 
     .icon-text{
-        font-size: 1.5rem;
+        font-size: .75rem;
+        text-align: center;
+    }
+    .fa-home{
+        /* margin-left: .5rem; */
+        margin-right: 1.5rem;
     }
     .icons{
-       padding: 1rem;
+       padding: 1.5rem;
+       color: black;
         text-align: center;
     }
 
@@ -485,10 +498,76 @@ footer{
         display: none;
     }
 
-    .container{
+    /* .container{
+        display: none;
+    } */
+
+    .cover{
         display: none;
     }
 
+    .foot{
+        display: none;
+      
+    }
 
+    .bio{
+        font-size: 0.75rem;
+         text-align: left;
+         margin-left: 0.5rem;
+         margin-right: 0.5rem;
+     }
+
+     .info{
+       display:none;
+       
+    }
+
+    .price {
+       display:none;
+        
+    }
+
+    .features {
+        display: none;
+    }
+
+    .display-4{
+        text-align: center;
+        font-family: 'Anton', sans-serif;
+        
+        padding-top: 1.5rem;
+        padding-bottom: 2rem;
+        color: black;
+        text-shadow: 5px 5px gray;
+    }
+
+    .container-2{
+        padding-right: 7rem;
+    }
+
+    .schedule{
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        font-size: 1rem;
+        color: white;
+    }
+
+    .display-4{
+        text-align: center;
+        font-family: 'Anton', sans-serif;
+        font-size: 0.5rem;
+        padding-top: 1.5rem;
+        padding-bottom: 2rem;
+        color: black;
+        text-shadow: 5px 5px gray;
+    }
     
+    .schedule{
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        font-size: 1rem;
+        color: black;
+        padding-right: 5rem;
+    }
 }
